@@ -1,23 +1,23 @@
-# #list 
+#list 
 
-# list = ["apple", "banana", "mango"]
+list = ["apple", "banana", "mango"]
 
-# print (list)
-# print(len(list))
+print (list)
+print(len(list))
 
-# # print(list[1])
-# print(list[-1])
+# print(list[1])
+print(list[-1])
 
 
-# thislist = ["apple", "banana", "cherry"]
-# if "apple" in thislist:
-#   print("Yes, 'apple' is in the fruits list")
+thislist = ["apple", "banana", "cherry"]
+if "apple" in thislist:
+  print("Yes, 'apple' is in the fruits list")
   
-# list[1] = "mugu"
-# print(list)
+list[1] = "mugu"
+print(list)
 
-# list.append("orange")
-# print(list)
+list.append("orange")
+print(list)
 
 # list comprehension
 
